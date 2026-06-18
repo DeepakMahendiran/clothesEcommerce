@@ -1,0 +1,12 @@
+{
+  "name": "brickthreads-ecommerce",
+  "version": "1.0.0",
+  "description": "LEGO themed e-commerce website for clothes and accessories",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 3000"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
